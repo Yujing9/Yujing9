@@ -39,7 +39,7 @@ I am a Full Stack Developer.
 - 🌱 I’m currently learning TypeScript.
 
 
-- :mailbox:How to reach me:yuanyujing991122@gmail.com
+- :mailbox:How to reach me:  yuanyujing991122@gmail.com
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
