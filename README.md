@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </div>
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer.
+I try to be a Full Stack Developer.
 - :telescope: I’m looking for a job to be a Software Engineer and I would like to contribute to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
