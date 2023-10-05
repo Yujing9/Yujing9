@@ -28,15 +28,12 @@ Here are some ideas to get you started:
 </div>
 
 ### :woman_technologist: About Me :
-I try to be a Full Stack Developer.
-- :telescope: I’m looking for a job to be a Software Engineer and I would like to contribute to frontend and backend for building web applications.
+I am a front-end Developer.
+- :telescope: Trying to be a good developer.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: Fun fact: Guitar,Cooking.I love music!!!!!!!!
-
-
-- 🌱 I’m currently learning TypeScript.
 
 
 - :mailbox:How to reach me:  yuanyujing991122@gmail.com
